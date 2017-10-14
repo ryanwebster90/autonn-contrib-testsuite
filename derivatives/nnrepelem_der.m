@@ -1,4 +1,4 @@
-classdef nnrepelem < nntest
+classdef nnrepelem_der < nntest
   properties (TestParameter)
     behavior = {'scalar','vector','tensor'};
   end
